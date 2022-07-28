@@ -7,7 +7,7 @@ app = Client(
     "hmmm",
     api_id=12345,
     api_hash="abcedfghijklm23hb3bd",
-    bot_token="12345:Ab1Cdeg6hiJk89"
+    bot_token="5302586671:AAEaE31UqS9mCDOSCdqJYUhVa4LF_Uh9iss"
 )
 
 
